@@ -1,0 +1,1 @@
+pyinstaller -F -i bugs.ico --noconsole newpoolRGB.py 
